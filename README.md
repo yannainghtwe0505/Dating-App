@@ -1,4 +1,4 @@
-# error_messenger
+# Firebase_messenger
 
 A new Flutter project.
 
